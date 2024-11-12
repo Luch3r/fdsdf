@@ -1,0 +1,16 @@
+table {
+    margin: auto;
+    background-repeat: no-repeat;
+    width: 677px;
+    height: 95px;
+
+}
+body {
+    background-color: aqua;
+    color: aqua;
+    background-image: url('Без\ названия.jfif');
+}
+
+tr {
+    background-color: black;
+}

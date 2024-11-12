@@ -1,0 +1,19 @@
+table {
+    margin: auto;
+    background-repeat: no-repeat;
+    width: 1750px;
+    
+ 
+
+}
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    size: 20px;
+}
+
+tr {
+    background-color: black;
+    background-image: url('i.png');
+
+}
